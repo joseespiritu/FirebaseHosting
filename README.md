@@ -9,3 +9,8 @@ Repositorio dedicado a aprender Firebase Hosting
 * _firebase login_
 * _firebase init_
 * _firebase deploy_
+
+
+## VueJs Project
+* _npm install -g @vue/cli_
+* _vue create code-club_
